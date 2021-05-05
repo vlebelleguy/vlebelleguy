@@ -17,6 +17,7 @@
         <img src="https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku&logoColor=white">
         <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Express&logoColor=white">
         <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=white">
+        <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
         <h3><ins>Things I Am Learning</ins></h3>
         <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=white">
