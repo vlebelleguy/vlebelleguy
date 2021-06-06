@@ -10,7 +10,7 @@
         <h3><ins>Things I Code With</ins></h3>
         <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white">
         <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React-Native&logoColor=white">
+        <img src="https://img.shields.io/badge/-React-Native-black?style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white">
