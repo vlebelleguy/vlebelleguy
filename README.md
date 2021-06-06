@@ -10,6 +10,7 @@
         <h3><ins>Things I Code With</ins></h3>
         <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white">
         <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React-Native&logoColor=white">
         <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -21,7 +22,6 @@
         <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
         <h3><ins>Things I Am Learning</ins></h3>
-        <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=White">
         <h5>Let's Work Together!</h5>
         <a href="https://fr.linkedin.com/in/valentinlebelleguy"><img src="/assets/icons/linkedin.png" width="40px"></a>
