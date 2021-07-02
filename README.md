@@ -3,7 +3,7 @@
         <a href="https://vlebelleguy.com/"><img src="/assets/banner.gif"></a>
         <h1>Hey there! Welcome to my page.</h1>
         <h3><ins>Who am I?</ins></h3>
-        <p>I'm Valentin Le Belleguy. Fullstack Web Developer based in France.</p>
+        <p>I'm Valentin Le Belleguy. Full-Stack Web Developer based in France.</p>
         <p>Captivated by the digital world, I decided to give a new turn to my career by learning to code. To increase my skills and become quickly operational in both front and back-end, I enrolled in a Full-Stack Web and Mobile bootcamp, focused on JavaScript and the React framework.</p>
         <p>Thanks to the technical skills acquired during this training and to the soft skills developed in my professional life, I approach Web development with a strategic and holistic vision.</p>
         <p>Seeking an internship for the summer of 2021, I am ready to take on the exciting challenges of the development world. I'm also available for interesting collaborations and fun side projects. Let's build the future of the Web together!</p>
