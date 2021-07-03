@@ -12,6 +12,7 @@
         <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white">
         <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=white">
         <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logo=Expo&logoColor=white">
         <img src="https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify&logoColor=white">
