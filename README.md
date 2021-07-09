@@ -23,6 +23,7 @@
         <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=white">
         <h3><ins>Things I Am Learning</ins></h3>
         <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
+        <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=white">
         <h5>Let's Work Together!</h5>
         <a href="https://fr.linkedin.com/in/valentinlebelleguy"><img src="/assets/icons/linkedin.png" width="40px"></a>
         <a href="mailto:lebelleguy.v@gmail.com"><img src="/assets/icons/email.png" width="40px"></a>
