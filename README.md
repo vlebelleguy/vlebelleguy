@@ -1,12 +1,10 @@
 <div align="center">
     <samp>
-        <a href="https://vlebelleguy.com/"><img src="/assets/banner.gif"></a>
         <h1>Hey there! Welcome to my page.</h1>
         <h3><ins>Who am I?</ins></h3>
-        <p>I'm Valentin Le Belleguy. Full-Stack Web Developer based in France.</p>
-        <p>Captivated by the digital world, I decided to give a new turn to my career by learning to code. To increase my skills and become quickly operational in both front and back-end, I enrolled in a Full-Stack Web and Mobile bootcamp, focused on JavaScript and the React framework.</p>
-        <p>Thanks to the technical skills acquired during this training and to the soft skills developed in my professional life, I approach Web development with a strategic and holistic vision.</p>
-        <p>Seeking an internship for the summer of 2021, I am ready to take on the exciting challenges of the development world. I'm also available for interesting collaborations and fun side projects.</p>
+        <p>I'm Valentin Le Belleguy. Marketing Specialist based in France.</p>
+        <p>From Barcelona to Toronto, I have traveled the globe in search of new arrows to add to my professional quiver. Thanks to the technical skills acquired during my apprenticeship and the human qualities developed in my professional life, I approach digital with a strategic and holistic vision.</p>
+        <p>I'm available for interesting collaborations and fun side projects.</p>
         <p>Let's build the future of the Web together!</p>
         <h3><ins>Things I Code With</ins></h3>
         <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -21,9 +19,6 @@
         <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=white">
         <img src="https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku&logoColor=white">
         <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=white">
-        <h3><ins>Things I Am Learning</ins></h3>
-        <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
-        <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=white">
         <h5>Let's Work Together!</h5>
         <a href="https://fr.linkedin.com/in/valentinlebelleguy"><img src="/assets/icons/linkedin.png" width="40px"></a>
         <a href="mailto:lebelleguy.v@gmail.com"><img src="/assets/icons/email.png" width="40px"></a>
