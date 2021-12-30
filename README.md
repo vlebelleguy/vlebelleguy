@@ -3,7 +3,7 @@
         <h1>Hey there! Welcome to my page.</h1>
         <h3><ins>Who am I?</ins></h3>
         <p>I'm Valentin Le Belleguy. Marketing Specialist based in France.</p>
-        <p>From Barcelona to Toronto, I have traveled the globe in search of new arrows to add to my professional quiver. Thanks to the technical skills acquired during my apprenticeship and the human qualities developed in my professional life, I approach digital with a strategic and holistic vision.</p>
+        <p>From Barcelona to Toronto, I have traveled the globe in search of new arrows to add to my professional quiver. Thanks to the technical skills acquired during my apprenticeship and the human qualities developed in my professional life, I approach marketing with a strategic and holistic vision.</p>
         <p>I'm available for interesting collaborations and fun side projects.</p>
         <p>Let's build the future of the Web together!</p>
         <h3><ins>Things I Code With</ins></h3>
